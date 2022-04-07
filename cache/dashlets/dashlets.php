@@ -1,5 +1,5 @@
 <?php
-// created: 2022-04-07 00:44:23
+// created: 2022-04-07 12:34:40
 $dashletsFiles = array (
   'AOS_ProductsDashlet' => 
   array (
@@ -318,6 +318,13 @@ $dashletsFiles = array (
     'class' => 'CalendarDashlet',
     'meta' => 'modules/Calendar/Dashlets/CalendarDashlet/CalendarDashlet.meta.php',
     'module' => 'Calendar',
+  ),
+  'tr123_trainingDashlet' => 
+  array (
+    'file' => 'modules/tr123_training/Dashlets/tr123_trainingDashlet/tr123_trainingDashlet.php',
+    'class' => 'tr123_trainingDashlet',
+    'meta' => 'modules/tr123_training/Dashlets/tr123_trainingDashlet/tr123_trainingDashlet.meta.php',
+    'module' => 'tr123_training',
   ),
   'MyAccountsDashlet' => 
   array (
