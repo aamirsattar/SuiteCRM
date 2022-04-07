@@ -63,9 +63,9 @@ $manifest = array (
   'icon' => '',
   'is_uninstallable' => true,
   'name' => 'tutorial',
-  'published_date' => '2022-04-06 20:45:44',
+  'published_date' => '2022-04-07 05:43:59',
   'type' => 'module',
-  'version' => 1649277944,
+  'version' => 1649310239,
   'remove_tables' => 'prompt',
 );
 

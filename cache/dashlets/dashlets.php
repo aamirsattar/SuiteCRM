@@ -1,5 +1,5 @@
 <?php
-// created: 2022-04-07 00:44:23
+// created: 2022-04-07 10:44:06
 $dashletsFiles = array (
   'AOS_ProductsDashlet' => 
   array (
@@ -187,6 +187,13 @@ $dashletsFiles = array (
     'class' => 'AM_TaskTemplatesDashlet',
     'meta' => 'modules/AM_TaskTemplates/Dashlets/AM_TaskTemplatesDashlet/AM_TaskTemplatesDashlet.meta.php',
     'module' => 'AM_TaskTemplates',
+  ),
+  'test1_trainingDashlet' => 
+  array (
+    'file' => 'modules/test1_training/Dashlets/test1_trainingDashlet/test1_trainingDashlet.php',
+    'class' => 'test1_trainingDashlet',
+    'meta' => 'modules/test1_training/Dashlets/test1_trainingDashlet/test1_trainingDashlet.meta.php',
+    'module' => 'test1_training',
   ),
   'FP_eventsDashlet' => 
   array (
